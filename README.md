@@ -1,6 +1,6 @@
 # elm
 This is a simple interface code to use extreme learning machine. It originates from the work by Lampert et al. 2013 [1]. We tested the code on the data in SVM-light format.
-By now, there is an interesting work on ELMs which copes with big data [1].
+By now, there is an interesting work on ELMs which copes with big data [2].
 
 [1] D. Lampert, https://github.com/dclambert/Python-ELM, 2013
 
